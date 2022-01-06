@@ -1,4 +1,4 @@
-# Frontend Mentor - Intro Component With Signup Form solution
+# Frontend Mentor - Order summary card
 
 This is a solution to the [Design preview for the Order summary card coding challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-H5lYadHFt). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
