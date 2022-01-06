@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FM-order-summary/static/css/main.e55245e6.chunk.css",
+    "main.js": "/FM-order-summary/static/js/main.deaab5ef.chunk.js",
+    "main.js.map": "/FM-order-summary/static/js/main.deaab5ef.chunk.js.map",
+    "runtime-main.js": "/FM-order-summary/static/js/runtime-main.43c302cd.js",
+    "runtime-main.js.map": "/FM-order-summary/static/js/runtime-main.43c302cd.js.map",
+    "static/js/2.7463996c.chunk.js": "/FM-order-summary/static/js/2.7463996c.chunk.js",
+    "static/js/2.7463996c.chunk.js.map": "/FM-order-summary/static/js/2.7463996c.chunk.js.map",
+    "static/js/3.67210896.chunk.js": "/FM-order-summary/static/js/3.67210896.chunk.js",
+    "static/js/3.67210896.chunk.js.map": "/FM-order-summary/static/js/3.67210896.chunk.js.map",
+    "index.html": "/FM-order-summary/index.html",
+    "static/css/main.e55245e6.chunk.css.map": "/FM-order-summary/static/css/main.e55245e6.chunk.css.map",
+    "static/js/2.7463996c.chunk.js.LICENSE.txt": "/FM-order-summary/static/js/2.7463996c.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/FM-order-summary/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/FM-order-summary/static/media/illustration-hero.73032583.svg",
+    "static/media/main.scss": "/FM-order-summary/static/media/pattern-background-mobile.c8d50fcb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43c302cd.js",
+    "static/js/2.7463996c.chunk.js",
+    "static/css/main.e55245e6.chunk.css",
+    "static/js/main.deaab5ef.chunk.js"
+  ]
+}
