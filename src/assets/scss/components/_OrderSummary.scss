@@ -1,0 +1,14 @@
+body {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center top;
+  background-color: $pale-blue;
+  background-image: url(../../images/pattern-background-desktop.svg);
+}
+
+@media (max-width: 480px) {
+  body {
+    background-image: url(../../images/pattern-background-mobile.svg);
+  }
+}
