@@ -84,7 +84,6 @@ export default function OrderSummaryCard() {
           size="large"
           color="secondary"
           variant="contained"
-          elevation={0}
           sx={{
             width: "100%",
             mt: "30px",
