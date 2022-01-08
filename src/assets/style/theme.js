@@ -1,8 +1,11 @@
 import patternBackground from "../images/pattern-background-desktop.svg";
+import patternMobileBackground from "../images/pattern-background-mobile.svg";
+
+const font = "'Red Hat Display', sans-serif";
 
 const muiTheme = {
   typography: {
-    fontFamily: "Red Hat Display, sans-serif",
+    fontFamily: font,
     h3: {
       fontWeight: 900,
     },
@@ -37,8 +40,11 @@ const muiTheme = {
           backgroundSize: "contain",
           backgroundAttachment: "fixed",
           backgroundPosition: "center top",
-          backgroundColor: "hsl(225, 100%, 94%)",
-          backgroundImage: patternBackground,
+          backgroundColor: "#e0e8ff",
+          backgroundImage: `url(${patternBackground})`,
+          "@media (max-width: 480px)": {
+            backgroundImage: `url(${patternMobileBackground})`,
+          },
         },
       },
     },

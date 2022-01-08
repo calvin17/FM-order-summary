@@ -1,11 +1,8 @@
-import { styled } from "@mui/material/styles";
 import Grid from "@mui/material/Grid";
 import CssBaseline from "@mui/material/CssBaseline";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import OrderSummaryCard from "./OrderSummaryCard";
 import { muiTheme } from "../assets/style/theme";
-
-import "../assets/scss/main.scss";
 
 const theme = createTheme(muiTheme);
 
