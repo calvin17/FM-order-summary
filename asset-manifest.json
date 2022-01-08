@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/FM-order-summary/static/js/main.df0d92cd.chunk.js",
-    "main.js.map": "/FM-order-summary/static/js/main.df0d92cd.chunk.js.map",
+    "main.js": "/FM-order-summary/static/js/main.bcf4b8da.chunk.js",
+    "main.js.map": "/FM-order-summary/static/js/main.bcf4b8da.chunk.js.map",
     "runtime-main.js": "/FM-order-summary/static/js/runtime-main.4b54c56a.js",
     "runtime-main.js.map": "/FM-order-summary/static/js/runtime-main.4b54c56a.js.map",
     "static/js/2.5829cdad.chunk.js": "/FM-order-summary/static/js/2.5829cdad.chunk.js",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.4b54c56a.js",
     "static/js/2.5829cdad.chunk.js",
-    "static/js/main.df0d92cd.chunk.js"
+    "static/js/main.bcf4b8da.chunk.js"
   ]
 }
